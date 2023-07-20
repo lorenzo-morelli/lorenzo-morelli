@@ -3,12 +3,17 @@ I am a passionate and dedicated individual with a strong background in Artificia
 
 ### 🏫 Curricular projects
 **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+
 **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+
 **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+
 
 ### 💻 Individual projects
 **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+
 **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+
 
 ### 🔢 Statistics
 <!--![Lorenzo Morelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenzo-morelli&show_icons=true&theme=dark)
