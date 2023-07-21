@@ -2,17 +2,14 @@
 I am a passionate and dedicated individual with a strong background in Artificial Intelligent, Machine Learning and Software Engineering. I graduated in 2022 and I'm currently pursuing my Master's Degree in Computer Science & Engineering at Politecnico di Milano (IT).
 
 ### 🏫 Curricular projects
-**[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
-
-**[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
-
-**[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+- **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+- **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+- **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
 
 
 ### 💻 Individual projects
-**[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
-
-**[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+- **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
+- **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
 
 
 ### 🔢 Statistics
