@@ -1,5 +1,5 @@
 ### 👤 Whoami
-I am a passionate and dedicated individual with a strong background in Artificial Intelligent, Machine Learning, Cybersecurity and Software Engineering. I graduated in 2022 and I'm currently pursuing my Master's Degree in Computer Science & Engineering at Politecnico di Milano (IT).
+I am a passionate and dedicated individual with a strong background in Software Engineering, Artificial Intelligence, Machine Learning and Cybersecurity. I graduated in 2022 and I'm currently pursuing my Master's Degree in Computer Science & Engineering at Politecnico di Milano (IT).
 
 ### 🏫 Curricular projects
 - **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** a group project.
