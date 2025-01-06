@@ -3,7 +3,7 @@ I am a passionate and dedicated professional with a strong background in Softwar
 
 ### ⚙️ Software Engineering
 - 🍃 **[Stoopify (Android)](https://play.google.com/store/apps/details?id=it.stoopify)**, **[Stoopify (Web)](https://web.stoopify.it/)** | Dart, Flutter
-<br />**Transforming urban stooping into a connected community.**
+<br />**Transforming urban stooping into a connected and sustainable community.**
 <br />Stoopify is an innovative application enabling people to share, find, and give away items using the art of stooping. With social network features like messaging, user profiles, and geolocation-based searches, it bridges the gap between sustainability and community-building.
 - ♟️ **[Gambetto](https://github.com/martinopiaggi/Gambetto)** | Unity, C#
 <br />An open-source casual arcade game with puzzle elements, Gambetto was crafted by a team of five MSc Engineering students as part of a university project. Players navigate dungeon-like levels, facing enemy chess pieces and using power-ups to gain new abilities. With about 20 minutes of gameplay, it serves as a proof of concept, and the team is committed to its expansion. Downloadable executables are available on its [itch.io page](https://polimi-game-collective.itch.io/gambetto), along with a game design document offering architectural insights. Contributions are welcome, with detailed guidelines for level design and feature proposals.
