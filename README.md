@@ -13,7 +13,7 @@ I am a passionate and dedicated professional with a strong background in Softwar
 -->
 
 ### 🧠 Machine Learning & AI
-- 🤖 **[Artificial Neural Networks Challenges](https://github.com/lorenzo-morelli/ANN-Challenges)** | Python, Tensorflow
+- 🤖 **[Artificial Neural Networks Challenges](https://github.com/lorenzo-morelli/Artificial-Neural-Networks-Challenges)** | Python, Tensorflow
  <br />These challenges explored deep learning applications in image classification and time series forecasting. The first involved identifying plant health using ConvNeXt, achieving over 91% accuracy. The second focused on predicting future sequences with LSTM models, showcasing the versatility of neural networks.
 - 💬 **[Question-Answering Bot](https://github.com/lorenzo-morelli/Question-Answering-Bot)** | Python, PyTorch
 <br />An exploration of Transformer-based models like BERT and RoBERTa for answering questions using the SQuAD2.0 dataset. This project integrates Wikipedia API for real-world applications and includes interactive features for testing custom queries.
