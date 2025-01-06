@@ -8,8 +8,9 @@ I am a passionate and dedicated professional with a strong background in Softwar
 - ♟️ **[Gambetto](https://github.com/martinopiaggi/Gambetto)** | Unity, C#
 <br />An open-source casual arcade game with puzzle elements, Gambetto was crafted by a team of five MSc Engineering students as part of a university project. Players navigate dungeon-like levels, facing enemy chess pieces and using power-ups to gain new abilities. With about 20 minutes of gameplay, it serves as a proof of concept, and the team is committed to its expansion. Downloadable executables are available on its [itch.io page](https://polimi-game-collective.itch.io/gambetto), along with a game design document offering architectural insights. Contributions are welcome, with detailed guidelines for level design and feature proposals.
 
-- 🎲 **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** | Java, JavaFX
+<!-- - 🎲 **[Eriantys](https://github.com/lorenzo-morelli/Eriantys)** | Java, JavaFX
 <br />This project brings the board game [Eriantys](https://www.craniocreations.it/en/product/eriantys) into the digital world, using a client/server architecture with both CLI and GUI interfaces. It supports multiplayer matches, ensures resilience to disconnections, and includes beginner and expert game modes, offering an engaging and reliable gaming experience.
+-->
 
 ### 🧠 Machine Learning & AI
 - 🤖 **[Artificial Neural Networks Challenges](https://github.com/lorenzo-morelli/ANN-Challenges)** | Python, Tensorflow
