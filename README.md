@@ -1,5 +1,5 @@
 ### 👤 Whoami
-I am a passionate and dedicated professional with a strong background in Software Engineering, Artificial Intelligence, Machine Learning, and Cybersecurity. I am currently pursuing a Master's degree in Computer Science & Engineering at Politecnico di Milano (IT), and I am set to graduate in Spring 2025.
+I am a passionate and dedicated professional with a strong background in Software Engineering, Artificial Intelligence, Machine Learning, and Cybersecurity. In 2025, I earned my Master’s degree in Computer Science and Engineering from Politecnico di Milano, Italy.
 
 ### ⚙️ Software Engineering
 - 🍃 **[Stoopify (Android)](https://play.google.com/store/apps/details?id=it.stoopify)**, **[Stoopify (Web)](https://web.stoopify.it/)** | Dart, Flutter
